@@ -40,3 +40,8 @@ footer {
   height: 100vh;
  flex-flow: wrap;
 }
+
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
+}
