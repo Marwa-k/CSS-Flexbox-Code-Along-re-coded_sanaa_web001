@@ -11,6 +11,18 @@ header {
   flex-shrink: 0;
 }
 
+.flex-container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+ flex-flow: wrap;
+}
+
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
+}
+
 main {
   background-color: #92C9D5;
   width: 100%;
@@ -36,14 +48,3 @@ footer {
   flex-shrink: 3;
 }
 
-.flex-container {
-  display: flex;
-  width: 100vw;
-  height: 100vh;
- flex-flow: wrap;
-}
-
-.setWidth {
-  flex-basis: 100px;
-  flex-grow: 1;
-}
