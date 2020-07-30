@@ -30,10 +30,10 @@ main {
   height: 100%;
 /*  flex-wrap:wrap;
   flex-direction: column; */
-  flex-flow: wrap;
-  /*flex-flow:row  wrap;
+
+  flex-flow:row  wrap;
   justify-content: center;
-  align-items: center;*/
+  align-items: center;
 }
 
 .item {
