@@ -14,8 +14,7 @@ main {
   background-color: #92C9D5;
   width: 100%;
   height: 100%;
-  flex-flow:row  wrap;
-  justify-content: center;
+
 }
 
 .item {
@@ -35,5 +34,7 @@ footer {
   display: flex;
   width: 100vw;
   height: 100vh;
- flex-flow: wrap;
+
+ flex-flow:row  wrap;
+ justify-content: center;
 }
