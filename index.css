@@ -21,7 +21,7 @@ header {
 .setWidth {
   flex-basis: 100px;
   flex-grow: 1;
-} 
+}
 
 main {
   display: flex;
