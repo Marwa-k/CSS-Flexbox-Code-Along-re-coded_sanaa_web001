@@ -40,7 +40,7 @@ main {
   width: 100px;
   margin: 5px;
   background-color: #FCF2EC;
-/*  align-items: stretch; */
+  align-items: stretch;
 
 }
 
@@ -50,7 +50,7 @@ footer {
   width: 100%;
 flex-shrink: 3;
 }
-/*.self
+.self
 {
   align-self:flex-end;
-} */
+} 
